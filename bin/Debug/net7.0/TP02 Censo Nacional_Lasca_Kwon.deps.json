@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TP02 Censo Nacional_Lasca_Kwon/1.0.0": {
+        "runtime": {
+          "TP02 Censo Nacional_Lasca_Kwon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP02 Censo Nacional_Lasca_Kwon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

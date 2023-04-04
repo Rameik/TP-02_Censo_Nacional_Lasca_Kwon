@@ -1,0 +1,30 @@
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.exe
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.deps.json
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.runtimeconfig.json
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.dll
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.pdb
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.csproj.AssemblyReference.cache
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.AssemblyInfoInputs.cache
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.AssemblyInfo.cs
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.csproj.CoreCompileInputs.cache
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.dll
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\refint\TP02 Censo Nacional_Lasca_Kwon.dll
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.pdb
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.genruntimeconfig.cache
+Z:\2023\Programacion 2023\TP02 Censo Nacional_Lasca_Kwon\obj\Debug\net7.0\ref\TP02 Censo Nacional_Lasca_Kwon.dll
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.exe
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.deps.json
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.runtimeconfig.json
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.dll
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\bin\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.pdb
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.csproj.AssemblyReference.cache
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.AssemblyInfoInputs.cache
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.AssemblyInfo.cs
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.csproj.CoreCompileInputs.cache
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.dll
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\refint\TP02 Censo Nacional_Lasca_Kwon.dll
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.pdb
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\TP02 Censo Nacional_Lasca_Kwon.genruntimeconfig.cache
+C:\Users\ramak\OneDrive\Documentos\Ramiro\Escuela\4to Año\Programacion\TP 02_Censo_Nacional_Lasca_Kwon\obj\Debug\net7.0\ref\TP02 Censo Nacional_Lasca_Kwon.dll
